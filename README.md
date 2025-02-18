@@ -23,7 +23,7 @@ Meu objetivo e compreender e me familiarizar com um uso básico da Aplicação A
 
 As seguintes ferramentas foram usados no desenvolvimento deste projeto:
 
-- IDE: <a href="https://developer.android.com/studio?hl=pt-br">Visual Studio</a>
+- IDE: <a href="https://developer.android.com/studio?hl=pt-br">Android Studio</a>
 
 <h2 id=author>:grin: Autor</h2>
 
